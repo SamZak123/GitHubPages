@@ -38,4 +38,4 @@ And lastly, [here is a picture of me!](ID.jpg)
 
 And that's a brief overview about me! 
 
-[Go to the beginning of about me](##about-me)
+[](##about-me)
