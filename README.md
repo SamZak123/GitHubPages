@@ -1,3 +1,3 @@
 # GitHubPages
 
-My favorite programming language is Java. I love it ! 
+My Page: https://samzak123.github.io/GitHubPages/
