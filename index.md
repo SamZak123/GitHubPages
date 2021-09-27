@@ -36,4 +36,4 @@ My very broad over arching goals in terms of my career are as follow:
 
 And that's a brief overview about me! 
 
-[Go to the top](#-about-me)
+[Go to the top](##-about-me)
