@@ -34,8 +34,8 @@ My very broad over arching goals in terms of my career are as follow:
 - [ ] Enter the industry as a Software Engineer
 - [ ] Transition to teaching/Teach part time
 
-And lastly, [Here is a picture of me!](ID.jpg)
+And lastly, [here is a picture of me!](ID.jpg)
 
 And that's a brief overview about me! 
 
-[Go to the top](##-about-me)
+[Go to the top](#-hi,-welcome-to-my-user-page!)
